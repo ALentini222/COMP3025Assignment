@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">COMP3025ASSIGNMENT</string>
+    <string name="weather">Weather</string>
+    <string name="weather_details">Weather Details</string>
+    <string name="log_ski_wax">Log Ski Wax</string>
+    <string name="ski_wax_calculator">Ski Wax Calculator</string>
+    <string name="weather_button">Weather Button</string>
+    <string name="detailed_info">Detailed Info</string>
+    <string name="ski_wax_log">Ski Wax Log</string>
+    <string name="wax_log_details">Wax Log Details</string>
 </resources>
