@@ -11,4 +11,6 @@
     <string name="register_login">Register/Login</string>
     <string name="wax_history">Wax History</string>
     <string name="wax_log">Wax Log</string>
+    <string name="go_back">Go Back</string>
+    <string name="submit">Submit</string>
 </resources>
