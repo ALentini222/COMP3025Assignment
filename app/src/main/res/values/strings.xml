@@ -8,4 +8,7 @@
     <string name="detailed_info">Detailed Info</string>
     <string name="ski_wax_log">Ski Wax Log</string>
     <string name="wax_log_details">Wax Log Details</string>
+    <string name="register_login">Register/Login</string>
+    <string name="wax_history">Wax History</string>
+    <string name="wax_log">Wax Log</string>
 </resources>
