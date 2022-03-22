@@ -5,6 +5,7 @@ data class Project(
     var ski : String? = null,
     var glide : String? = null,
     var grip : String? = null,
-    var comments : String? = null
-) {
-}
+    var comments : String? = null,
+    var id : String? = null,
+    //var uID : String? = null
+)

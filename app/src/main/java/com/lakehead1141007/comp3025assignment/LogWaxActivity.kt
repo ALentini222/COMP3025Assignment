@@ -5,16 +5,20 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.auth.ktx.auth
 import com.lakehead1141007.comp3025assignment.databinding.ActivityLogWaxBinding
 import com.google.firebase.firestore.FirebaseFirestore
+import com.google.firebase.ktx.Firebase
 
 class LogWaxActivity : AppCompatActivity() {
     private lateinit var binding : ActivityLogWaxBinding
+    private lateinit var auth: FirebaseAuth
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityLogWaxBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+        auth = Firebase.auth
         binding.submitButton.setOnClickListener{
             val date = binding.editTextDate.text.toString().trim()
             val ski = binding.skiEntry.text.toString().trim()
@@ -31,12 +35,19 @@ class LogWaxActivity : AppCompatActivity() {
                 if(comments.isEmpty()){
                     comments = "None"
                 }
-                val project = Project(date, ski, glide, grip, comments)
+
                 val db = FirebaseFirestore.getInstance().collection("projects")
+
                 val id =  db.document().getId()
 
+                //var uID = auth.currentUser!!.uid
+
+                val project = Project(date, ski, glide, grip, comments, id/*, uID*/)
+
                 db.document(id).set(project)
-                    .addOnSuccessListener { Toast.makeText(this, "Stored Successfully", Toast.LENGTH_LONG).show() }
+                    .addOnSuccessListener {
+                        Toast.makeText(this, "Stored Successfully", Toast.LENGTH_LONG).show()
+                    }
                     .addOnFailureListener { Log.w("DB_Issue", it.localizedMessage)}
             }
             else{
