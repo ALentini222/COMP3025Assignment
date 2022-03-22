@@ -40,19 +40,23 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.skiWaxLogButton.setOnClickListener{
-            var intent = Intent(this, LogWaxActivity::class.java)
+            val intent = Intent(this, LogWaxActivity::class.java)
             startActivity(intent)
         }
         binding.waxLogDetailsButton.setOnClickListener{
-            var intent = Intent(this, DetailedWaxLogActivity::class.java)
+            val intent = Intent(this, DetailedWaxLogActivity::class.java)
             startActivity(intent)
         }
         binding.detailedInfoButton.setOnClickListener{
-            var intent = Intent(this, DetailedWeatherActivity::class.java)
+            val intent = Intent(this, DetailedWeatherActivity::class.java)
             startActivity(intent)
         }
         binding.weatherButton.setOnClickListener{
-            var intent = Intent(this, WeatherButtonActivity::class.java)
+            val intent = Intent(this, WeatherButtonActivity::class.java)
+            startActivity(intent)
+        }
+        binding.registerLogin.setOnClickListener{
+            val intent = Intent(this, SignInActivity::class.java)
             startActivity(intent)
         }
 

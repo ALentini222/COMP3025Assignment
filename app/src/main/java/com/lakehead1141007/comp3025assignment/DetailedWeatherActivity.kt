@@ -13,7 +13,7 @@ class DetailedWeatherActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.backButton.setOnClickListener{
-            var intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
     }

@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.COMP3025ASSIGNMENT">
         <activity
+            android:name=".SignInActivity"
+            android:exported="false" />
+        <activity
             android:name=".WeatherButtonActivity"
             android:exported="false" />
         <activity

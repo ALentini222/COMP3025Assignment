@@ -16,8 +16,8 @@ class LogWaxActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.submitButton.setOnClickListener{
-            var date = binding.editTextDate.text.toString().trim()
-            var ski = binding.skiEntry.text.toString().trim()
+            val date = binding.editTextDate.text.toString().trim()
+            val ski = binding.skiEntry.text.toString().trim()
             var glide = binding.glideWaxEntry.text.toString().trim()
             var grip = binding.gripWaxEntry.text.toString().trim()
             var comments = binding.editTextComments.text.toString().trim()
@@ -31,7 +31,7 @@ class LogWaxActivity : AppCompatActivity() {
                 if(comments.isEmpty()){
                     comments = "None"
                 }
-                var project = Project(date, ski, glide, grip, comments)
+                val project = Project(date, ski, glide, grip, comments)
                 val db = FirebaseFirestore.getInstance().collection("projects")
                 val id =  db.document().getId()
 
@@ -45,7 +45,7 @@ class LogWaxActivity : AppCompatActivity() {
         }
 
         binding.backButton.setOnClickListener{
-            var intent = Intent(this, MainActivity::class.java)
+            val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
     }
