@@ -13,4 +13,9 @@
     <string name="wax_log">Wax Log</string>
     <string name="go_back">Go Back</string>
     <string name="submit">Submit</string>
+    <string name="ski">Ski</string>
+    <string name="glide_wax">Glide Wax</string>
+    <string name="grip_wax">Grip Wax</string>
+    <string name="comments">Comments</string>
+    <string name="_01_01_2000">01/01/2000</string>
 </resources>

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    tools:context=".LogWaxActivity"
     android:background="@drawable/rectangle">
 
     <TextView
@@ -36,5 +37,71 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:background="@color/white"
+        android:id="@+id/editTextDate"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:text="@string/_01_01_2000"
+        android:inputType="date"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titleText" />
+
+    <EditText
+        android:background="@color/white"
+        android:id="@+id/skiEntry"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="@string/ski"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextDate" />
+
+    <EditText
+        android:background="@color/white"
+        android:id="@+id/glideWaxEntry"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="@string/glide_wax"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/skiEntry" />
+
+    <EditText
+        android:background="@color/white"
+        android:id="@+id/gripWaxEntry"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="@string/grip_wax"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/glideWaxEntry" />
+
+    <EditText
+        android:background="@color/white"
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="@string/comments"
+        app:layout_constraintBottom_toTopOf="@+id/submitButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gripWaxEntry" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
