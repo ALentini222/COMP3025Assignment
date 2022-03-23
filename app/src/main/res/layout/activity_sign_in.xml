@@ -7,4 +7,17 @@
     tools:context=".SignInActivity"
     android:background="@drawable/rectangle">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="391dp"
+        android:layout_height="223dp"
+        android:text="SKI WAX CALCULATOR"
+        android:textColor="@color/purple_500"
+        android:textSize="50sp"
+        android:fontFamily="sans-serif-medium"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

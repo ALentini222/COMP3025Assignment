@@ -8,8 +8,8 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
 class ProjectAdapter (val context : Context,
-                      val projects : List<Project>,
-                      val itemListener : ProjectItemListener
+                      private val projects : List<Project>,
+                      private val itemListener : ProjectItemListener
 ) : RecyclerView.Adapter<ProjectAdapter.ProjectViewHolder>(){
 
     inner class ProjectViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView){
