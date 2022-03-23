@@ -14,11 +14,11 @@ class ProjectViewModel : ViewModel() {
     private var auth : FirebaseAuth = Firebase.auth
 
     init{
-        val userID = auth.currentUser?.uid
+        val uID = auth.currentUser?.uid
 
         val db = FirebaseFirestore.getInstance().collection("projects")
-            .whereEqualTo("uid", userID)
-            .orderBy("projectName")
+            .whereEqualTo("uid", uID)
+            .orderBy("ski")
             .addSnapshotListener{ documents, exception ->
                 if (exception != null)
                 {

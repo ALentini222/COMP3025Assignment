@@ -7,5 +7,5 @@ data class Project(
     var grip : String? = null,
     var comments : String? = null,
     var id : String? = null,
-    //var uID : String? = null
+    var uID : String? = null
 )

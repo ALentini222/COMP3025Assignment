@@ -40,9 +40,9 @@ class LogWaxActivity : AppCompatActivity() {
 
                 val id =  db.document().getId()
 
-                //var uID = auth.currentUser!!.uid
+                var uID = auth.currentUser!!.uid
 
-                val project = Project(date, ski, glide, grip, comments, id/*, uID*/)
+                val project = Project(date, ski, glide, grip, comments, id, uID)
 
                 db.document(id).set(project)
                     .addOnSuccessListener {

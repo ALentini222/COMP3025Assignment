@@ -11,27 +11,28 @@
         android:theme="@style/Theme.COMP3025ASSIGNMENT">
         <activity
             android:name=".SignInActivity"
-            android:exported="false" />
-        <activity
-            android:name=".WeatherButtonActivity"
-            android:exported="false" />
-        <activity
-            android:name=".DetailedWeatherActivity"
-            android:exported="false" />
-        <activity
-            android:name=".DetailedWaxLogActivity"
-            android:exported="false" />
-        <activity
-            android:name=".LogWaxActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".WeatherButtonActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DetailedWeatherActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DetailedWaxLogActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LogWaxActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
         </activity>
     </application>
 
