@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
         binding.weatherButton.setOnClickListener{
-            val intent = Intent(this, WeatherButtonActivity::class.java)
+            val intent = Intent(this, WaxChartActivity::class.java)
             startActivity(intent)
         }
         binding.registerLogin.setOnClickListener{

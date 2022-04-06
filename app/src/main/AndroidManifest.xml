@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.lakehead1141007.comp3025assignment">
+
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,6 +14,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.COMP3025ASSIGNMENT">
+        <activity
+            android:name=".GripWaxChartActivity"
+            android:exported="false" />
         <activity
             android:name=".ViewDetailedWaxLogActivity"
             android:exported="false" />
@@ -25,7 +30,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".WeatherButtonActivity"
+            android:name=".WaxChartActivity"
             android:exported="true" />
         <activity
             android:name=".DetailedWeatherActivity"
