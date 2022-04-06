@@ -17,6 +17,7 @@ class ProjectAdapter (val context : Context,
         val dateTextView = itemView.findViewById<TextView>(R.id.dateTextView)!!
         val glideTextView = itemView.findViewById<TextView>(R.id.glideTextView)!!
         val gripTextView = itemView.findViewById<TextView>(R.id.gripTextView)!!
+        val commentsTextView = itemView.findViewById<TextView>(R.id.commentsTextView)!!
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ProjectViewHolder {
@@ -32,6 +33,7 @@ class ProjectAdapter (val context : Context,
             dateTextView.text = project.date
             glideTextView.text = project.glide
             gripTextView.text = project.grip
+            commentsTextView.text = project.comments
             itemView.setOnClickListener {
                 itemListener.projectSelected(project)
             }

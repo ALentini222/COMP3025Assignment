@@ -20,4 +20,20 @@
     <string name="_01_01_2000">01/01/2000</string>
     <string name="weather_api_will_be_added_for_assignment_3">Weather API will be added for assignment 3</string>
     <string name="_02_23_2022">02/23/2022</string>
+    <string name="location">Location</string>
+    <string name="time">time</string>
+    <string name="sky_conditions">Sky Conditions</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="temp">Temp</string>
+    <string name="rain">rain</string>
+    <string name="_32">32%</string>
+    <string name="humidity">Humidity</string>
+    <string name="_29_92hpa">29.92Hpa</string>
+    <string name="pressure">Pressure</string>
+    <string name="_20km_h">20km/h</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="get_location">Get Location</string>
 </resources>

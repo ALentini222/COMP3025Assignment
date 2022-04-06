@@ -43,8 +43,5 @@ class DetailedWaxLogActivity : AppCompatActivity(), ProjectAdapter.ProjectItemLi
     }
 
     override fun projectSelected(project: Project) {
-        var intent = Intent(this, ViewDetailedWaxLogActivity::class.java)
-        intent.putExtra("projectID", project.id)
-        startActivity(intent)
     }
 }

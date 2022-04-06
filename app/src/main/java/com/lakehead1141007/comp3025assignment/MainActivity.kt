@@ -47,10 +47,6 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, DetailedWaxLogActivity::class.java)
             startActivity(intent)
         }
-        binding.detailedInfoButton.setOnClickListener{
-            val intent = Intent(this, DetailedWeatherActivity::class.java)
-            startActivity(intent)
-        }
         binding.weatherButton.setOnClickListener{
             val intent = Intent(this, WeatherButtonActivity::class.java)
             startActivity(intent)
