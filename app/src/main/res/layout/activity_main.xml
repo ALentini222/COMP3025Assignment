@@ -4,73 +4,42 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/rectangle"
     tools:context=".MainActivity">
-
-    <View
-        android:id="@+id/divider"
-        android:layout_width="409dp"
-        android:layout_height="1dp"
-        android:background="?android:attr/listDivider"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageView
-        android:id="@+id/glideWaxView"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        app:layout_constraintBottom_toTopOf="@+id/divider"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/rectangle" />
-
-    <ImageView
-        android:id="@+id/gripWaxView"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/divider"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/rectangle" />
 
     <TextView
         android:id="@+id/titleText"
-        android:layout_width="400dp"
-        android:layout_height="wrap_content"
+        android:layout_width="246dp"
+        android:layout_height="70dp"
         android:padding="20dp"
         android:text="@string/ski_wax_calculator"
         android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/glideWaxView" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/weatherButton"
         android:layout_width="@dimen/button_width"
         android:layout_height="wrap_content"
-        android:text="@string/weather_button"
-        app:layout_constraintBottom_toBottomOf="@+id/glideWaxView"
+        android:text="@string/wax_recommendations"
+        app:layout_constraintBottom_toTopOf="@+id/skiWaxLogButton"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/titleText" />
+        app:layout_constraintTop_toBottomOf="@+id/calendarView" />
 
     <Button
         android:id="@+id/waxLogDetailsButton"
         android:layout_width="@dimen/button_width"
         android:layout_height="wrap_content"
         android:text="@string/wax_log_details"
-        app:layout_constraintBottom_toBottomOf="@+id/gripWaxView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/skiWaxLogButton" />
+        app:layout_constraintBottom_toTopOf="@id/registerLogin"
+        app:layout_constraintTop_toBottomOf="@id/skiWaxLogButton"
+        tools:layout_editor_absoluteY="626dp" />
 
     <Button
         android:id="@+id/skiWaxLogButton"
@@ -80,7 +49,7 @@
         app:layout_constraintBottom_toTopOf="@+id/waxLogDetailsButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/divider" />
+        app:layout_constraintTop_toBottomOf="@id/weatherButton"/>
 
     <Button
         android:id="@+id/registerLogin"
@@ -91,6 +60,15 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/waxLogDetailsButton" />
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titleText"
+        app:layout_constraintBottom_toTopOf="@id/weatherButton"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 

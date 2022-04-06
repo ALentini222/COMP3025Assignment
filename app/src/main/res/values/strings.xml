@@ -113,4 +113,5 @@
     <string name="temp_f">Temp (°F)</string>
     <string name="temp_c">Temp (°C)</string>
     <string name="see_glide_wax">See Glide Wax</string>
+    <string name="wax_recommendations">Wax Recommendations</string>
 </resources>
