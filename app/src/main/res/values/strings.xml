@@ -59,8 +59,8 @@
     <string name="_p3_c">3°C</string>
     <string name="_p4_c">4°C</string>
     <string name="_p5_c">5°C</string>
-    <string name="_p6_c">6°C</string>
-    <string name="_p7_c">7°C</string>
+    <string name="_p6_c">+6°C</string>
+    <string name="_p7_c">+7°C</string>
     <string name="_p8_c">8°C</string>
     <string name="_p9_c">9°C</string>
     <string name="temperature_f">Temperature (°F)</string>
@@ -85,8 +85,8 @@
     <string name="_37_4_f">37.4°F</string>
     <string name="_39_2_f">39.2°F</string>
     <string name="_41_f">41°F</string>
-    <string name="_42_8_f">42.8°F</string>
-    <string name="_44_6_f">44.6°F</string>
+    <string name="_42_8_f">+42.8°F</string>
+    <string name="_44_6_f">+44.6°F</string>
     <string name="_46_4_f">46.4°F</string>
     <string name="_48_2_f">48.2°F</string>
     <string name="_50_f">50°F</string>

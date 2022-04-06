@@ -58,59 +58,18 @@
                 android:layout_height="wrap_content"
                 android:text="@string/temperatureC" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_10_176_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_p9_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_p8_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_p7_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/_p6_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -118,9 +77,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_p5_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -128,9 +87,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_p4_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -138,9 +97,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_p3_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -148,9 +107,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_p2_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -158,9 +117,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_p1_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -168,9 +127,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_0_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -178,9 +137,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_1_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -188,9 +147,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_2_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -198,9 +157,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_3_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -208,9 +167,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_4_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -218,9 +177,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_5_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -228,9 +187,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_6_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -238,9 +197,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_7_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -248,9 +207,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_8_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -258,9 +217,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_9_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -268,9 +227,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_10_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -278,9 +237,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_11_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -288,9 +247,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_12_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -298,9 +257,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_13_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -308,9 +267,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_14_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -318,9 +277,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_15_c" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
         </LinearLayout>
 
@@ -335,49 +294,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/temperature_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_50_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_48_2_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_46_4_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_44_6_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -385,9 +304,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_42_8_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -395,9 +314,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_41_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -405,9 +324,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_39_2_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -415,9 +334,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_37_4_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -425,9 +344,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_35_6_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -435,9 +354,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_33_8_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -445,9 +364,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_32_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -455,9 +374,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_30_2_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -465,9 +384,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_28_4_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -475,9 +394,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_26_6_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -485,9 +404,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_24_8_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -495,9 +414,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_23_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -505,9 +424,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_21_2_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -515,9 +434,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_19_4_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -525,9 +444,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_17_6_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -535,9 +454,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_15_8_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -545,9 +464,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_14_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -555,9 +474,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_12_2_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -565,9 +484,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_10_4_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -575,9 +494,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_8_6_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -585,9 +504,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_6_8_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -595,9 +514,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/_5_f" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
         </LinearLayout>
 
@@ -612,9 +531,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/glide_wax" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -622,9 +541,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yellow" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -632,49 +551,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yellow" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/yellow" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/yellow" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/yellow" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/yellow" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -682,9 +561,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yellow_red" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -692,9 +571,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yellow_red" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -702,9 +581,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yellow_red" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -712,9 +591,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yellow_red" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -722,9 +601,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yellow_red" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -732,9 +611,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/red" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -742,9 +621,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/red_violet" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -752,9 +631,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/red_violet" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -762,9 +641,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/red_violet" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -772,9 +651,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/violet" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -782,9 +661,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/violet_blue" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -792,9 +671,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/violet_blue" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -802,9 +681,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/violet_blue" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -812,9 +691,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/blue" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -822,9 +701,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/blue_green" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -832,9 +711,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/blue_green" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -842,9 +721,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/blue_green" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -852,9 +731,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/green" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -862,9 +741,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/green" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -872,9 +751,9 @@
                 android:layout_height="wrap_content"
                 android:text="@string/green" />
 
-            <View
+               <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
         </LinearLayout>
     </LinearLayout>

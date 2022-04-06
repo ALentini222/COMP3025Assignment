@@ -58,47 +58,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_10_176_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_p9_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_p8_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_p7_c" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -108,7 +68,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -118,7 +78,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -128,7 +88,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -138,7 +98,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -148,7 +108,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -158,7 +118,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -168,7 +128,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -178,7 +138,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -188,7 +148,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -198,7 +158,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -208,7 +168,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -218,7 +178,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -228,7 +188,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -238,7 +198,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -248,7 +208,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -258,7 +218,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -268,7 +228,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -278,7 +238,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -288,7 +248,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -298,7 +258,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -308,7 +268,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -318,7 +278,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
         </LinearLayout>
 
@@ -334,47 +294,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_50_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_48_2_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_46_4_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/_44_6_f" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -384,7 +304,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -394,7 +314,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -404,7 +324,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -414,7 +334,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -424,7 +344,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -434,7 +354,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -444,7 +364,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -454,7 +374,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -464,7 +384,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -474,7 +394,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -484,7 +404,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -494,7 +414,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -504,7 +424,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -514,7 +434,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -524,7 +444,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -534,7 +454,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -544,7 +464,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -554,7 +474,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -564,7 +484,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -574,7 +494,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -584,7 +504,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -594,7 +514,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
         </LinearLayout>
 
@@ -610,7 +530,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -620,7 +540,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -630,7 +550,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -640,47 +560,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -690,7 +570,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -700,7 +580,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -710,7 +590,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -720,7 +600,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -729,7 +609,7 @@
                 android:text="@string/violet_special" />
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -739,7 +619,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -748,7 +628,7 @@
                 android:text="@string/violet_special" />
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -758,7 +638,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -768,7 +648,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -778,7 +658,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -788,7 +668,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -798,7 +678,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -808,7 +688,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -818,7 +698,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -828,7 +708,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -838,7 +718,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -848,7 +728,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -858,7 +738,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -868,7 +748,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
         </LinearLayout>
 
@@ -884,7 +764,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -894,7 +774,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -904,7 +784,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -914,7 +794,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -924,7 +804,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -934,47 +814,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="?android:attr/listDivider" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/klister" />
-
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -984,7 +824,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -994,7 +834,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1003,7 +843,7 @@
                 android:text="@string/red_silver" />
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1013,7 +853,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1022,7 +862,7 @@
                 android:text="@string/violet" />
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1032,7 +872,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1042,7 +882,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1052,7 +892,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1062,7 +902,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1072,7 +912,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1082,7 +922,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1092,7 +932,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1102,7 +942,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1112,7 +952,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1122,7 +962,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1132,7 +972,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
 
             <TextView
@@ -1142,7 +982,7 @@
 
             <View
                 android:layout_width="match_parent"
-                android:layout_height="1dp"
+                android:layout_height=".5dp"
                 android:background="?android:attr/listDivider" />
         </LinearLayout>
     </LinearLayout>
