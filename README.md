@@ -45,3 +45,12 @@ Access API for up to date/time weather info
   -->depending on how DB intigration ends up working for this app I might setup users table so it pulls the rows where the user == user.
   -->then as stated above once a user has more than XXX number of rows the oldest row gets deleted.
   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+As of 04/09/2022:
+
+The app is currently in review for publishing on the google play store
+![image](https://user-images.githubusercontent.com/77400292/162575748-e12a6143-db56-4747-9007-97cdc51cdd96.png)
+With this, the app will hopefully be uploaded to this <a href="https://play.google.com/store/apps/details?id=com.lakehead1141007.comp3025assignment">hyperlink</a>, however if it is not there then it is still in review.  
+
+The app has a fully working ski wax trackcer and has all the information for temperatures in F and in C, but the calculator part of the app is not currently available as I was not able to get the API working with this app at this time.  I would still like to fix this in the future as I will probably use this app thuroughly in the future but as of right now, it is not in a fully working state.
+
